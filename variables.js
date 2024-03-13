@@ -1,0 +1,5 @@
+console.log(3!="3")
+console.log(3==3)
+console.log(3=="3")
+console.log("3"!=3)
+console.log(Math.pow(4,3))

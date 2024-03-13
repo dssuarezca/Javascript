@@ -1,7 +1,23 @@
 .fondo{
-    background-color: red;
+    background-color: rgb(53, 116, 158);
 }
 .mitexto{
     font-size: 75px;
-    color: green;
+    color: yellow;
+}
+.imagen{
+    width: 500px;
+    height: 500px;
+    
+}
+.moverimagen{
+    position: relative;
+    bottom: 200px;
+    
+    right: 100px;
+    left: 200px;
+   
+}
+p{
+    color: blueviolet;
 }
